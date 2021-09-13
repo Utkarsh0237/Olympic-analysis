@@ -1,12 +1,12 @@
-#Summer-Olympic-Analysis  
+# Summer-Olympic-Analysis  
 
 
 Summer olympic analysis using CSV file in python  
 
-##Contents 
+## Contents 
 
 This repository contains a two files  
-1.summer_olympics@analysis.ipynb 
+1.summer_olympics_analysis.ipynb 
 2.summer.csv  
 
 This is an assignment from Elite Techno Group to me.  
@@ -15,7 +15,7 @@ There were 8 questions for which we need answer through our specific codes.
 This folder has a summer.csv file having the details of the Summer Olympics of various sports, athletes, medals etc from year 1896 to 2012. 
 It has 31165 records.   
 
-##QUESTIONS  
+## QUESTIONS  
 
 1>>In how many cities summer olympics held so far?  
 2>> Which sports is having most number of golds so far? (Top 5)  
@@ -26,7 +26,7 @@ It has 31165 records.
 7>> Which event is most popular in terms on number of players? (Top 5)  
 8>> Which sport is having most female Gold Medalists? (Top 5)  
 
-##Libraries
+## Libraries
 
 I am using in my project to answer the questions.
 
